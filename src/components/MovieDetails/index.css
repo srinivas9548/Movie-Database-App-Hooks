@@ -151,6 +151,12 @@
     margin: 0;
 }
 
+@media screen and (min-width: 1200px) {
+    .movie-overview-description {
+        font-size: 14px;
+    }
+}
+
 .backdrop-image {
     width: 100%;
     border-top-left-radius: 5px;
